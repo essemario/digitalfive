@@ -3,12 +3,12 @@ Departamento de Informatica do SUS é um orgçao da secretaria executiva do mini
 
 # Bases
 Encontrei 12 bases:
-* Base Populacional IBGE
-* Base Territorial
-* CIH - Comunicação de Internação Hospitalar
-* CIHA - Comunicação de Informção Hospitalar e Ambulatorial
+* **Base Populacional IBGE**
+* **Base Territorial**
+* **CIH - Comunicação de Internação Hospitalar**
+* **CIHA - Comunicação de Informção Hospitalar e Ambulatorial**
 * CMD - Conjunto Minimo de Dados (da Atenção à Saude)
-* CNES - Cadastro Nacional de Estabelecimentos do SUS
+* CNES - Cadastro Nacional de Estabelecimentos do SUS**
 * SIASUS - Sistema de Informações Ambulatoriais do SUS
 * SIH - Sistema de Informações Hospitalares
 * SIM - Sistema de Informações de Mortalidade
@@ -265,4 +265,3 @@ Distrito Sanitario Especial Indigena
 |fonte     |char(2)|Fonte da remuneração|
 |modalidade|char(2)|Modalidade do atendimento|
 
-## CIHA - Comunicação de Informção Hospitalar e Ambulatorial
