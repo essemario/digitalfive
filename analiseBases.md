@@ -194,7 +194,7 @@ Distrito Sanitario Especial Indigena
 ### tb_procedimento
 
 |Coluna|Tamanho|Inicio|Fim|Tipo|
-|:---:|:-------:|:----:|:----|
+|:---:|:-------:|:----:|:----|:----|
 |CO_PROCEDIMENTO|10|1|10|VARCHAR2|
 |NO_PROCEDIMENTO|250|11|260|VARCHAR2|
 |TP_COMPLEXIDADE|1|261|261|VARCHAR2|
@@ -215,14 +215,14 @@ Distrito Sanitario Especial Indigena
 ### tb_procedimento_nsus
 
 |Coluna|Tamanho|Inicio|Fim|Tipo|
-|:---:|:-------:|:----:|:----|
+|:---:|:-------:|:----:|:----|:----|
 |CO_PROCEDIMENTO|10|1|10|VARCHAR2|
 |NO_PROCEDIMENTO|250|11|260|VARCHAR2|
 
 ### tb_cid
 
 |Coluna|Tamanho|Inicio|Fim|Tipo|
-|:---:|:-------:|:----:|:----|
+|:---:|:-------:|:----:|:----|:----|
 |CO_CID|4|1|4|VARCHAR2|
 |NO_CID|100|5|104|VARCHAR2|
 |TP_AGRAVO|1|105|105|CHAR|
