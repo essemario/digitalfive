@@ -192,6 +192,7 @@ Distrito Sanitario Especial Indigena
 .txt 
 
 ### tb_procedimento
+
 |Coluna|Tamanho|Inicio|Fim|Tipo|
 |:---:|:-------:|:----:|:----|
 |CO_PROCEDIMENTO|10|1|10|VARCHAR2|
@@ -212,12 +213,14 @@ Distrito Sanitario Especial Indigena
 
 
 ### tb_procedimento_nsus
+
 |Coluna|Tamanho|Inicio|Fim|Tipo|
 |:---:|:-------:|:----:|:----|
 |CO_PROCEDIMENTO|10|1|10|VARCHAR2|
 |NO_PROCEDIMENTO|250|11|260|VARCHAR2|
 
 ### tb_cid
+
 |Coluna|Tamanho|Inicio|Fim|Tipo|
 |:---:|:-------:|:----:|:----|
 |CO_CID|4|1|4|VARCHAR2|
