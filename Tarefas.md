@@ -1,12 +1,11 @@
 # Tarefas
-Até 20/11 *TODOS* (Todos devem elaborar um documento com as 4 respostas)
-- FEITO - Listar todas as bases (1 - Quais bases existem) -> Arquivo AnaliseBases.md
-- FEITO - Acessar cada base 
-- FEITO - Listar/Descrever por cima os dados das bases (2 - Que dados cada base contem)
-- 3 - **Como seriam acessados esses dados**
-- 4 - **Quais tratamentos esses dados precisam**
-- 5 - **Definir ideia do Prototipo**
-- 6 - **Marvel (Prototipo) - Daniel**
-- 7 - **API/Codigo - Ruan** 
+- FEITO - (Mario/Daniel) - Listar todas as bases -> Arquivo AnaliseBases.md
+- FEITO - (Mario/Daniel) - Acessar cada base 
+- FEITO - (Mario/Daniel) - Listar/Descrever por cima os dados das bases 
+- FEITO - (Mario/Daniel) - Como seriam acessados esses dados
+- FEITO - (Mario/Daniel) - Quais tratamentos esses dados precisam
+- FEITO - (Mario/Daniel) - Definir ideia do Prototipo
+- FEITO - (Mario/Daniel) - Marvel (Prototipo)
+- EM ANDAMENTO - API/Codigo - Ruan
 - EM ANDAMENTO - Criar PPT - Mario
-- Pitch
+- Pitch - Mario
