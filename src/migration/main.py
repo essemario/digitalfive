@@ -2,6 +2,7 @@ import sys
 import sqlite3
 from sqlite3 import Error
 
+
 def create_connection(db_file):
     conn = None
 
@@ -23,6 +24,7 @@ def main():
     cursor.executescript(sql_as_string)
     conn.commit()
     conn.close()
+
 
 if __name__ == "__main__":
     if (len(sys.argv) > 3 or len(sys.argv) < 3):
